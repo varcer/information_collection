@@ -1,0 +1,6 @@
+/html/body/div[4]/div/section[3]/div[2]/table/thead/tr/th[%s]
+/html/body/div[4]/div/section[3]/div[2]/table/tbody/tr[%s]/td[1]/a
+/html/body/div[4]/div/section[3]/div[2]/table/tbody/tr[%s]/td[2]
+/html/body/div[4]/div/section[3]/div[2]/table/tbody/tr[%s]/td[3]
+/html/body/div[4]/div/section[3]/div[2]/table/tbody/tr[%s]/td[4]
+/html/body/div[4]/div/section[3]/div[2]/table/tbody/tr[%s]/td[5]
